@@ -1,21 +1,9 @@
-"""
-BSD3513 Introduction to Artificial Intelligence
-Lab Report 3 - Chapter 3: Knowledge Representation System
-Rule-Based Scholarship Advisory System (Streamlit)
-
-Run locally :  streamlit run StudentID_Lab3.py
-Knowledge   :  facts (applicant data) + rules (JSON: name, priority, conditions, action)
-Inference   :  forward chaining; every rule is tested against the facts, all rules
-               whose conditions are ALL true "apply" (applicable rules), and the
-               conflict is resolved by choosing the rule with the HIGHEST priority.
-"""
-
 import json
 import operator
 from typing import Any
 
 # ---------------------------------------------------------------------------
-# 1. KNOWLEDGE BASE: the rules supplied in the lab sheet (used EXACTLY)
+# 1. KNOWLEDGE BASE: the rules in the lab sheet 
 # ---------------------------------------------------------------------------
 DEFAULT_RULES_JSON = """[
   {
