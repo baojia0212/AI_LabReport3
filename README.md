@@ -12,11 +12,7 @@ Try to run the live app below!!
 
 ## Screenshots
 
-| Evaluation page | Rules page | Batch page |
-|---|---|---|
-| `screenshots/evaluation.png` | `screenshots/rules.png` | `screenshots/batch.png` |
 
-(Add your own screenshots to a `screenshots/` folder and link them here, e.g. `![Evaluation](screenshots/evaluation.png)`.)
 
 ## Features
 
