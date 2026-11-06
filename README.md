@@ -1,6 +1,7 @@
 # Rule-Based Scholarship Advisory System
 
 **Course: BSD3513 Introduction to Artificial Intelligence**
+
 **Topic: Chapter 3: Knowledge Representation System (Lab Report 3 - Question 2)**
 
 # Project Overview
